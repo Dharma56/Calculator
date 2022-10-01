@@ -1,0 +1,40 @@
+*
+{
+    margin:auto;
+    padding:auto;
+}
+#myDIV
+{
+    margin-top:100px;
+    height:475px;
+    width:300px;
+    padding-top:1%;
+    text-align:center;
+    border:2px solid grey;
+    border-radius:10px;    
+}
+.button
+{
+    position:relative;
+    margin-left:5%;
+    margin-top:2%;
+    box-shadow:5px 5px #ccc;
+}
+i
+{
+    color:#a882054;
+    float:center;
+    font-size:36px;
+    margin-top:10px;
+}
+#foot
+{
+    color:#954531;
+    text-align:center;
+    line-height: 0.01;
+    margin-top:5px;
+}
+.mystyle
+{
+    background-color:black;
+}
